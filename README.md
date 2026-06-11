@@ -23,3 +23,9 @@ The objective of this project is to develop a Tableau dashboard to visualize and
   <img width="1641" height="784" alt="Screenshot 2026-04-29 153022" src="https://github.com/user-attachments/assets/cb38b016-f76b-4d65-ad68-c795488bae4f" />
 
 
+# Success Metrics
+- Dashboard adoption by key stakeholders.
+- Reduction in time taken to generate environmental compliance reports.
+- Identification of actionable insights leading to measurable improvements.
+
+
